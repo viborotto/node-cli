@@ -1,2 +1,2 @@
 # node-cli
-Project node CLI
+Exemple node CLI
